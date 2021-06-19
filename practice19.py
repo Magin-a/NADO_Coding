@@ -1,3 +1,4 @@
+#
 from random import *
 class Unit: #상속하는 유닛 부모 클래스
     def __init__(self, name, hp, speed): #__init__  클래스로부터 만들어지는 것을 객체
